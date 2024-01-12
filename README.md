@@ -3,7 +3,7 @@ A basic group project in typescript
 
 
 Gioco testuale(come obiettivo finale punto ad aggiungere un render minimalista, vedi il primo dwarf fortress)
-![alt text]([http://url/to/img.png](https://github.com/Nayrae/text-adv-game.ts/blob/main/New%20Project.jpg)https://github.com/Nayrae/text-adv-game.ts/blob/main/New%20Project.jpg)
+![New Project](https://github.com/Nayrae/text-adv-game.ts/assets/31448095/0ded6652-6e5d-4d20-a96c-b7cbe260b580)
 
 
 TODO:
