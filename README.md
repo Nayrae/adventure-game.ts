@@ -1,4 +1,5 @@
-# text-adv-game.ts
+# adventure-game.ts
+
 A basic group project in typescript
 
 
